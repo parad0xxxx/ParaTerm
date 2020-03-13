@@ -11,8 +11,9 @@ A python-based SSH client for jailbroken iOS devices.
     * [!] Get it here if you don't already have it: https://cydia.saurik.com/openssh.html
     
 * A computer connected to the same network
-* Python 3.6.0 installed
+* Python 3.6.0 with ssh2-python installed
     * [!] Get it here if you don't already have it: https://www.python.org/downloads/release/python-360/
+    * ```pip install ssh2-python```
     
 #### Output / Results:
 ```
